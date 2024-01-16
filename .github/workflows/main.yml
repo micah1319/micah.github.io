@@ -1,0 +1,14 @@
+.github/workflows/main.yml
+            - name: HashiCorp's Link Checker
+  # You may pin to the exact commit or the version.
+  # uses: hashicorp/gh-action-check-broken-links@9da9ec2d83f88fe981a856c3f03aca64e68af90c
+  uses: hashicorp/gh-action-check-broken-links@v1
+  with:
+    # The base URL that links will be resolved against
+    baseUrl: 
+    # A list of files that will be scanned for the presence of links
+    files: # optional
+    # A newline delmited list of URLs that will be ignored
+    whitelist: # optional
+
+    
