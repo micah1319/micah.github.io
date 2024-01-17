@@ -7,7 +7,7 @@ Hello, my name is Micah Schweinsberg, and welcome to my ePortfolio, where I will
 
 ## ABOUT ME
 
-I was born and raised in Arvada, Colorado and I am currently stationed at Los Angeles Air Force Base in El Segundo, CA where I will finish out my military career. I have spent the last 20.6 years working in multiple management, security and leadership roles for the United States Air Force, where I  gained skills in all aspects of force protection, security, personnel protection and law enforcement. The Air Force has provided me with one Bachelor and one Associates degree, along with schooling that focused on sharping my leadership and communication ability. 
+My name is Micah and I’m retiring from the Air Force as a Senior Security Forces Operations Manager and Force Protection expert, with a degree in Criminal Justice from Purdue. After 20-years managing programs, overseeing operations, leading personnel and obtaining critical IT certificates. I’m now prepared to transition into the field of cybersecurity. Working in a military culture where my primary mission was to protect personnel and assets from the physical perspective, was a perfect gateway into why I choose to transition to cyber. Since I’ve had experience in crisis management, business continuity and defense in depth, I can bring my certifications and 20-years of military experience to make this big career change into a field I’m passionate about and protect a companies data and infrastructure. 
 
 Why Cyber?
 	
