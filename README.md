@@ -23,9 +23,6 @@ I intend to continue my education and understanding of networks, cybersecurity f
 
 I hold an Associates in Criminal Justice from the Community College of the Air Force , and graduated from Purdue University Global with a Bachelors of Applied Science in Criminal Justice and Law Enforcement.
 	
-## Events Attended
-https://github.com/users/micah1319/projects/4/views/1#
-
 ## Projects
 
 https://github.com/users/micah1319/projects/4
